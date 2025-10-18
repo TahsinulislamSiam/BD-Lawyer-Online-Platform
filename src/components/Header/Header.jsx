@@ -1,11 +1,12 @@
 import React from 'react';
+import { Link, Links } from 'react-router';
 
 const Header = () => {
     const links = <>
-     <li className='m-2'>Home</li>
-      <li className='m-2'>My-Booking</li>
-      <li className='m-2'>Blogs</li>
-      <li className='m-2'>Contact us</li>
+     <Link to='/'><li className='m-2 hover:underline'>Home</li></Link>
+     <Link> <li className='m-2'>My-Booking</li></Link>
+      <Link><li className='m-2'>Blogs</li></Link>
+      <Link><li className='m-2'>Contact us</li></Link>
 
     </>
     return (

@@ -6,6 +6,7 @@
     "specially": "Criminal Law",
     "experience": "10 years",
     "law": "BD-CR-10234",
+    "consultationFee": 10000,
     "Details": "Specialized in criminal defense, Rahim has handled over 300 cases involving complex legal disputes and human rights issues."
   },
   {
@@ -15,6 +16,7 @@
     "specially": "Family & Divorce Law",
     "experience": "8 years",
     "law": "BD-FM-20456",
+    "consultationFee": 25000,
     "Details": "Jenny focuses on family law, including divorce settlements, child custody, and women’s rights advocacy."
   },
   {
@@ -24,6 +26,7 @@
     "specially": "Property & Real Estate Law",
     "experience": "12 years",
     "law": "BD-RE-19876",
+    "consultationFee": 5000,
     "Details": "Expert in property disputes, land registration, and real estate documentation across Dhaka and Chattogram."
   },
   {
@@ -33,6 +36,7 @@
     "specially": "Corporate & Business Law",
     "experience": "9 years",
     "law": "BD-CB-17342",
+    "consultationFee": 3500,
     "Details": "Mita provides legal consultation for startups, mergers, and intellectual property rights protection."
   },
   {
@@ -42,6 +46,7 @@
     "specially": "Cyber Crime Law",
     "experience": "6 years",
     "law": "BD-CY-25419",
+    "consultationFee": 50000,
     "Details": "Mahedi is known for handling cybercrime, online fraud, and digital data privacy cases effectively."
   },
   {
@@ -50,6 +55,7 @@
     "name": "Adv. Alamin Patwary",
     "specially": "Human Rights Law",
     "experience": "11 years",
+    "consultationFee": 11100,
     "law": "BD-HR-16320",
     "Details": "Alamin has dedicated his career to defending underprivileged communities and ensuring justice for marginalized groups."
   },
@@ -59,6 +65,7 @@
     "name": "Adv. Shahid",
     "specially": "Tax & Finance Law",
     "experience": "7 years",
+    "consultationFee": 20000,
     "law": "BD-TX-14567",
     "Details": "Specialist in corporate taxation, VAT compliance, and financial regulation for medium to large enterprises."
   },
@@ -69,6 +76,7 @@
     "specially": "Immigration Law",
     "experience": "5 years",
     "law": "BD-IM-22145",
+    "consultationFee": 10200,
     "Details": "Samira helps clients navigate complex visa processes, residency permits, and immigration appeals."
   },
   {
@@ -78,6 +86,7 @@
     "specially": "Civil Law",
     "experience": "13 years",
     "law": "BD-CV-10112",
+    "consultationFee": 10000,
     "Details": "Mehedi specializes in civil litigation, contract disputes, and compensation claims with a strong record of success."
   },
   {
@@ -87,6 +96,7 @@
     "specially": "Labor & Employment Law",
     "experience": "9 years",
     "law": "BD-LB-19834",
+    "consultationFee": 40000,
     "Details": "Nusrat advises on workplace disputes, labor rights, and compliance with Bangladesh labor laws."
   },
   {
@@ -96,6 +106,7 @@
     "specially": "Environmental Law",
     "experience": "8 years",
     "law": "BD-EN-17721",
+    "consultationFee": 13000,
     "Details": "Arman works on environmental compliance, pollution control litigation, and sustainable development advocacy."
   },
   {
@@ -105,6 +116,7 @@
     "specially": "Constitutional Law",
     "experience": "15 years",
     "law": "BD-CO-12009",
+    "consultationFee": 300,
     "Details": "Tania is a constitutional expert, representing clients in high-profile cases involving civil liberties and government accountability."
   }
 ]
